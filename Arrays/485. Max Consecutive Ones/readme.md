@@ -1,0 +1,1 @@
+![Accepted submission for Max Consecutive Ones](image.png)

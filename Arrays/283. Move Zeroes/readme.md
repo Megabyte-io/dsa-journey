@@ -1,0 +1,1 @@
+![Approved submission for Move zeroes](image.png)
