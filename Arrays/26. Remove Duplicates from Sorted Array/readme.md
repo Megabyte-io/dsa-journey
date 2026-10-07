@@ -1,0 +1,1 @@
+![Accepted submission for Problem 26](image.png)
