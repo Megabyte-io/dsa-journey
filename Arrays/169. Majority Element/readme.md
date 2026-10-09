@@ -1,0 +1,1 @@
+![Accpeted submission for majority element](image.png)
