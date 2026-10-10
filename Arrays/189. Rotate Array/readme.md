@@ -1,0 +1,1 @@
+![Accepted submission for rotate array](image.png)
