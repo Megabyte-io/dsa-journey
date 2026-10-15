@@ -1,0 +1,1 @@
+![Accepted submission for rearrange elements](image.png)
